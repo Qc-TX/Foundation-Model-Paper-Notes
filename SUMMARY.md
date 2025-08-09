@@ -606,4 +606,5 @@
     * [Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](llm-and-security/llm-defense/eraser-jailbreaking-defense-in-large-language-models-via-unlearning-harmful-knowledge.md)
 * [GNN](gnn/README.md)
   * [GNN Basic](gnn/gnn-basic.md)
-* [AI图像生成与攻防技术学习笔记](ai-tu-xiang-sheng-cheng-yu-gong-fang-ji-shu-xue-xi-bi-ji.md)
+* [DataWhale学习笔记](datawhale-xue-xi-bi-ji/README.md)
+  * [夏令营：AI图像生成与攻防技术](datawhale-xue-xi-bi-ji/xia-ling-ying-ai-tu-xiang-sheng-cheng-yu-gong-fang-ji-shu.md)
